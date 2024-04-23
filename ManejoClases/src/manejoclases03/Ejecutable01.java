@@ -14,7 +14,7 @@ public class Ejecutable01 {
         // a través de los métodos establecer
         
         // hospital.nombre = "Isidro Ayora";
-        String nHospital = "Isidro Ayora";
+        String nHospital = "Pepe Tenez";
         hospital.establecerNombre(nHospital);
         
         // hospital.numeroCamas = 100;
